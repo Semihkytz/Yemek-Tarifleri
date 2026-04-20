@@ -1,4 +1,4 @@
-# Yeme Tarifleri
+# Yemek Tarifleri
 
 A new Flutter project.
 
