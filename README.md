@@ -5,11 +5,13 @@ Bu proje, Flutter ile geliştirilmiş zengin arayüzlü bir Yemek Tarifleri mobi
 ## 📱 Proje Hakkında
 Kullanıcıların çeşitli yemek tariflerini inceleyebildiği, tariflerin detaylarına, hazırlama sürelerine ve içerik bilgisini görebildiği modern ve kullanıcı dostu bir uygulamadır. 
 
-### ✨ Özellikler
+### ✨ Mevcut Özellikler
 * 🍳 **Ana Sayfa:** Çeşitli kategorilerde öne çıkan yemek tarifleri.
 * 📖 **Tarif Detayları:** Yemeklerin hazırlanışı, pişirme süreleri ve adım adım yapılış talimatları.
-* 👤 **Profil:** Kullanıcının kendi kaydettiği yemekler ve galerisi.
-* 🎨 **Modern Tasarım:** Sade, şık ve gece-gündüz temalarına uygun bir arayüz donanımı.
+
+### 🚧 Yakında Eklenecekler (Planlanan Özellikler)
+* 👤 **Profil:** Kullanıcının kendi kaydettiği yemekler ve galerisi (Çok yakında!).
+* 🎨 **Gelişmiş Modern Tasarım:** Sade, şık ve gece-gündüz temalarına uygun bir arayüz donanımı (Tasarım iyileştirmeleri devam ediyor).
 
 ## 🚀 Kurulum
 
